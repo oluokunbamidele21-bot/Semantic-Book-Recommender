@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Gradio](https://img.shields.io/badge/Gradio-6.9.0-orange?logo=gradio)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-enabled-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/Dele123/Semantic_Book_RecommenderLLM_Powered)
+
+
+
 📚 Semantic Book Recommender (LLM Powered)
 
 🚀 Overview
