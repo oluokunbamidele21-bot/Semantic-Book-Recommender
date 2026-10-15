@@ -3,10 +3,7 @@ pandas
 chromadb==1.5.5
 langchain-core==1.2.18
 langchain-community==0.4.1
-langchain-openai==1.1.11
 langchain-chroma==1.1.0
 langchain-text-splitters==1.1.1
-huggingface_hub
 python-dotenv
-langchain-huggingface
 sentence-transformers
